@@ -5,3 +5,7 @@ commit2
 commit3
 
 commit4
+
+1st commit for exercise-2
+
+2nd commit for exercise-2
